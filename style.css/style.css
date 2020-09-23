@@ -1,0 +1,18 @@
+#texto {
+    font-size: 14px;
+    color: black;
+    background-color: yellow;
+    display: inline-block;
+}
+
+#resposta-1 {
+    display: inline-block;
+    font-size: 14px;
+      line-height: 1.6;
+  }
+#resposta-2 {
+    display: inline-block;
+}
+#resposta-3 {
+    display: inline-block;
+}
