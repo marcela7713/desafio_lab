@@ -46,6 +46,3 @@ provaMat = (confirm("Deseja realizar a prova?")); //confirmar e direcionar//
 }
 
 document.getElementById("texto").innerHTML = "Nome: " + yourName;
-
-
-// VM269:17 Uncaught TypeError: Cannot set property 'innerHTML' of null
